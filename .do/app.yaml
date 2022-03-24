@@ -7,3 +7,5 @@ services:
     deploy_on_push: true
     repo: dsv101/vandalino-family
   name: vandalino-family
+  output_dir: _static
+  catchall_document: index.html
